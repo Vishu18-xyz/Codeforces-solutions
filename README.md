@@ -6,21 +6,37 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 4 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [implementation](#implementation) (1)
 - [math](#math) (1)
+- [strings](#strings) (3)
 
 ---
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
+| 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 
 ---
 
