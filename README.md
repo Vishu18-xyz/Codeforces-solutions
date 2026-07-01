@@ -6,16 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 5 |
+| 6 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [greedy](#greedy) (1)
+- [brute force](#brute-force) (2)
+- [combinatorics](#combinatorics) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (3)
 
 ---
@@ -24,12 +26,20 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
 
 ### implementation
@@ -42,7 +52,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 
 ### strings
 
