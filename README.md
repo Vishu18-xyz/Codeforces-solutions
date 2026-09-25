@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 9 |
+| 10 | 9 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (3)
-- [math](#math) (2)
+- [implementation](#implementation) (4)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
@@ -57,6 +57,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
@@ -65,6 +66,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Vishu18-xyz/Codeforces-solutions/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
 
